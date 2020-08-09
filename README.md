@@ -53,7 +53,7 @@ $ yarn
 # Para iniciar a aplicação, rode o comando:
 
 yarn start
-```
+```  
 
 ## Feito isso, veja qual a melhor maneira para testar a aplicação através de emuladores ou dispositivos móveis com o expo.
 
