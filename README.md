@@ -8,7 +8,7 @@ Ela permite que o professor possa se cadastrar informando suas informações par
 
 
 
-#Veja como rodar a aplicação:
+## Veja como rodar a aplicação:
 ```bash
 
 # Clone o respositório com o comando:
@@ -16,7 +16,7 @@ Ela permite que o professor possa se cadastrar informando suas informações par
  $ git clone https://github.com/the-one-who-knoccks/NLW2-Master
 ```
 
-#Rodar o back-end;
+## Rodar o back-end;
 ```bash
 # Na raiz da pasta clonada, acesse a pastar server com o comando 'cd server' e rode o comando yarn para instalar as dependências.
 
@@ -33,7 +33,7 @@ $ yarn knex:migrate
 
 
 
-#Front-end da aplicação:
+## Front-end da aplicação:
 ```bash
 # Acesse a pasta web dentro do diretório clonado com 'cd web' e instale as dependências com o comando:
  
@@ -44,7 +44,7 @@ $ yarn
 $ yarn start
 ```
 
-#Mobile da aplicação:
+## Mobile da aplicação:
 ```bash 
 #Acesse a pasta mobile dentro do diretório clonado com a linha 'cd mobile' e instale as dependências com o comando:
 
@@ -55,5 +55,5 @@ $ yarn
 yarn start
 ```
 
-#Feito isso, veja qual a melhor maneira para testar a aplicação através de emuladores ou dispositivos móveis com o expo.
+## Feito isso, veja qual a melhor maneira para testar a aplicação através de emuladores ou dispositivos móveis com o expo.
 
