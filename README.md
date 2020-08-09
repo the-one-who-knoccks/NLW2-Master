@@ -1,7 +1,6 @@
-## Proffy é uma aplicação que foi desenvolvida durante a semana Next Level Week#2 da Rocketseat. A aplicação consiste em uma plataforma de prestação de serviços de professores para alunos.
+Proffy é uma aplicação que foi desenvolvida durante a semana Next Level Week#2 da Rocketseat. A aplicação consiste em uma plataforma de prestação de serviços de professores para alunos.
 
-
-## Ela permite que o professor possa se cadastrar informando suas informações para contato, valor e tipo de máteria. Para o aluno, é possivel que ele possa filtrar por matérias de seu interesse para estudo, encontrando os professores de acorto com a matéria desejada tendo acesso 
+Ela permite que o professor possa se cadastrar informando suas informações para contato, valor e tipo de máteria. Para o aluno, é possivel que ele possa filtrar por matérias de seu interesse para estudo, encontrando os professores de acordo com a matéria desejada. Na aplicação também é possivel que o aluno possa favoritar seus professores preferidos.
 
 <h1 align="center">
   <img src="https://ik.imagekit.io/hld13bjzb1/design_Ms_hauYm6.png">
