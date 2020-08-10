@@ -24,7 +24,7 @@ $ yarn
 
 # Para iniciar o servidor, rode o comando:
 
-yarn
+$ yarn start
 
 # Para criar as migrations utilizadas no banco de dados, rode o comando:
 
