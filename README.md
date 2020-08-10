@@ -18,7 +18,8 @@ Ela permite que o professor possa se cadastrar informando suas informações par
 
 ## Rodar o back-end;
 ```bash
-# Na raiz da pasta clonada, acesse a pastar server com o comando 'cd server' e rode o comando yarn para instalar as dependências.
+# Na raiz da pasta clonada, acesse a pastar server com o comando 'cd server' e rode o 
+comando yarn para instalar as dependências.
 
 $ yarn
 
