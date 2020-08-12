@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img alt="Fastfeet" title="Proffy" src="./web/src/assets/images/logo.svg" background-color:"#CCC" width="300px" />
+  <img alt="Fastfeet" title="Proffy" src="./web/src/assets/images/logo.svg"  style="background-color:red" width="300px" />
 </h1>
-
-style="background-color:powderblue;
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">  <img alt="License" src="https://img.shields.io/badge/TypeScript-Blue?style=flat">
 
