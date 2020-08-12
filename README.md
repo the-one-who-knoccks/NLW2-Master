@@ -1,6 +1,19 @@
 <h1 align="center">
-  <img alt="Fastfeet" title="Proffy" src="./web/src/assets/images/logo.svg"  width="300px" />
+  <img alt="Proffy" title="Proffy" src="./web/src/assets/images/logo.svg"  width="300px" />
 </h1>
+
+
+<p align="center">
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">  <img alt="License" src="https://img.shields.io/badge/TypeScript-Blue?style=flat">
+
+
+<p align="center">
+  <a href="#rocket-sobre-o-desafio">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Mobile">Mobile</a>
+</p>
+
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">  <img alt="License" src="https://img.shields.io/badge/TypeScript-Blue?style=flat">
 
