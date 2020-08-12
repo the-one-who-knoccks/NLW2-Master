@@ -1,7 +1,5 @@
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-  
-  <img alt="License" src="https://img.shields.io/badge/TypeScript-Blue?style=flat">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">  <img alt="License" src="https://img.shields.io/badge/TypeScript-Blue?style=flat">
 
 Proffy é uma aplicação que foi desenvolvida durante a semana Next Level Week#2 da Rocketseat. A aplicação consiste em uma plataforma de prestação de serviços de professores para alunos.
 
