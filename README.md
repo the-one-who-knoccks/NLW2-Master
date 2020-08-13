@@ -4,7 +4,7 @@
 
 
 <p align="center">
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">  <img alt="License" src="https://img.shields.io/badge/TypeScript-Blue?style=flat">    <img src="https://img.shields.io/badge/React-Orange?style=flat" alt="React" /> <img src="https://img.shields.io/badge/Node v12.16.3-Green?style=flat" alt="Node v12.16.3" />
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">  <img alt="License" src="https://img.shields.io/badge/TypeScript-Blue?style=flat">    <img src="https://img.shields.io/badge/React-Orange?style=flat" alt="React" /> <img src="https://img.shields.io/badge/Node v12.16.3-Green?style=flat" alt="Node v12.16.3" /> <img src="https://img.shields.io/badge/React Native-black?style=flat" alt="React Native" />
 
 
 <p align="center">
