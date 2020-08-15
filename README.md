@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="Proffy" title="Proffy" src="./web/src/assets/images/logo.svg"  width="300px" />
 </h1>
-
+  
 
 <p align="center">
    <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">  <img alt="License" src="https://img.shields.io/badge/TypeScript-Blue?style=flat">    <img src="https://img.shields.io/badge/React-Orange?style=flat" alt="React" /> <img src="https://img.shields.io/badge/React Native-black?style=flat" alt="React Native" /> <img src="https://img.shields.io/badge/Node v12.16.3-Green?style=flat" alt="Node v12.16.3" /> 
@@ -39,7 +39,7 @@ Ela permite que o professor possa se cadastrar informando suas informações par
 # Na raiz da pasta clonada, acesse a pastar server com o comando 'cd server' e instale as dependências com o comando:
 
 $ yarn
-
+  
 # Para iniciar o servidor, rode o comando:
 
 $ yarn start
