@@ -34,7 +34,7 @@ Ela permite que o professor possa se cadastrar informando suas informações par
  $ git clone https://github.com/the-one-who-knoccks/NLW2-Master
 ```
 
-## Rodar o back-end;
+## Back-end da aplicação;
 ```bash
 # Na raiz da pasta clonada, acesse a pastar server com o comando 'cd server' e instale as dependências com o comando:
 
