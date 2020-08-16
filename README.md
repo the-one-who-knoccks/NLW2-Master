@@ -1,6 +1,6 @@
 <h1 align="center">
   <img alt="Proffy" title="Proffy" src="./web/src/assets/images/logo.svg"  width="300px" />
-</h1>
+</h1> 
   
 
 <p align="center">
