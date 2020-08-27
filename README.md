@@ -62,7 +62,7 @@ $ yarn
 $ yarn start
 ```
 
-## Mobile da aplicação:
+## Mobile da aplicação: 
 ```bash 
 # Acesse a pasta mobile dentro do diretório clonado com a linha 'cd mobile' e instale as dependências com o comando:
 
