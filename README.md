@@ -57,7 +57,7 @@ $ yarn knex:migrate
  
 $ yarn
 
-# Para iniciar a aplicação web, rode o comando:
+# Para iniciar a aplicação web, rode o comando:  
 
 $ yarn start
 ```
