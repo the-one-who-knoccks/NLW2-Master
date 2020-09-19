@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
   <img alt="Proffy" title="Proffy" src="https://ik.imagekit.io/hld13bjzb1/logo_gKAaGKkPO.png"  width="300px" />
 </h1>    
  
@@ -24,7 +24,7 @@ Ela permite que o professor possa se cadastrar informando seus dados para contat
   <img src="https://ik.imagekit.io/hld13bjzb1/design_Ms_hauYm6.png">
 <h1>
 
-
+ 
 
 ## Veja como rodar a aplicação:
 ```bash
