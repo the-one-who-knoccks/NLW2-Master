@@ -48,7 +48,7 @@ $ yarn start
 $ yarn knex:migrate
 ```
 
-
+  
 
 ## Front-end da aplicação:
 ```bash
