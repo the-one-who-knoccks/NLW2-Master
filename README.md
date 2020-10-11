@@ -3,7 +3,7 @@
 </h1>           
 <p align="center">    
    <img src="https://img.shields.io/badge/license-MIT-black?labelColor=7159c1&style=flat" alt="license" />  <img src="https://img.shields.io/badge/typescript-76.2-black?labelColor=7159c1&style=flat" alt="typescript" />   <img src="https://img.shields.io/badge/React-JS-black?labelColor=7159c1&style=flat" alt="React" /> <img src="https://img.shields.io/badge/React-Native-black?labelColor=7159c1&style=flat" alt="React" /> <img src="https://img.shields.io/badge/Node-v12.16.3-black?labelColor=7159c1&style=flat" alt="Node" /> 
-    
+     
        
 <p align="center"> 
   <a href="#rocket-sobre-o-desafio">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
