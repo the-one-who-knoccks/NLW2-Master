@@ -24,7 +24,7 @@ Ela permite que o professor possa se cadastrar informando seus dados para contat
 
   
 
-## Veja como rodar a aplicação:
+## Veja como rodar a aplicação: 
 ```bash
 
 # Clone o respositório com o comando:
