@@ -10,7 +10,7 @@
   <a href="#Backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Mobile">Mobile</a>
-</p>      
+</p>       
      
    
 
@@ -24,7 +24,7 @@ Ela permite que o professor possa se cadastrar informando seus dados para contat
 
   
 
-## Veja como rodar a aplicação: 
+## Veja como rodar a aplicação:  
 ```bash
 
 # Clone o respositório com o comando:
