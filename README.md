@@ -26,7 +26,7 @@ Ela permite que o professor possa se cadastrar informando seus dados para contat
  
 ## Veja como rodar a aplicação:   
 ```bash
- 
+  
 # Clone o respositório com o comando:
 
  $ git clone https://github.com/the-one-who-knoccks/NLW2-Master
