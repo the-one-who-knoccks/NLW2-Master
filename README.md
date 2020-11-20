@@ -18,7 +18,7 @@
 
 Ela permite que o professor possa se cadastrar informando seus dados para contato, valor e tipo de máteria. Para o aluno, é possivel que ele possa filtrar por matérias de seu interesse para estudo, encontrando os professores de acordo com a matéria desejada. Na aplicação também é possivel que o aluno possa favoritar seus professores preferidos.
  
-<h1 align="center">
+<h1 align="center"> 
   <img src="https://ik.imagekit.io/hld13bjzb1/design_Ms_hauYm6.png">
 <h1> 
 
