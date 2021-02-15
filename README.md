@@ -12,7 +12,7 @@
   <a href="#Mobile">Mobile</a>  
 </p>          
          
-         
+          
   
 📚 Proffy é uma aplicação que foi desenvolvida durante a semana Next Level Week#2 da Rocketseat. A aplicação consiste em uma plataforma de prestação de serviços de professores para alunos. 
 
